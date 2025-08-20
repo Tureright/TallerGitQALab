@@ -1,3 +1,5 @@
 Azul
 Verde
 Amarillo
+Verde
+Morado
